@@ -1,0 +1,136 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.pgaspar-cia.com" resolutions="1x" timestamp="1672915832153">
+  <folder name="css">
+    <file name="site_global.css" crc="321555783"/>
+    <file name="--p-gaspar---cia--.css" crc="335891659" ref="--p-gaspar---cia--"/>
+    <file name="nomq_--p-gaspar---cia--.css" crc="242873118" ref="--p-gaspar---cia--"/>
+    <file name="index.css" crc="4144854205" ref="index"/>
+    <file name="nomq_index.css" crc="312794276" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="pt_sans-web-regular-webfont.woff" crc="3795827228"/>
+    <file name="pt_sans-web-regular-webfont.eot" crc="3903747987"/>
+    <file name="pt_sans-web-regular-webfont.svg" crc="4241758161"/>
+    <file name="pt_sans-web-bold-webfont.woff" crc="112768220"/>
+    <file name="pt_sans-web-bold-webfont.eot" crc="257680478"/>
+    <file name="pt_sans-web-bold-webfont.svg" crc="4000889341"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:--p-gaspar---cia--"/>
+    <file name="museutils.js" crc="3939489907" ref="index:--p-gaspar---cia--"/>
+    <file name="whatinput.js" crc="86476730" ref="index:--p-gaspar---cia--"/>
+    <file name="museconfig.js" crc="247137391" ref="index:--p-gaspar---cia--"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:--p-gaspar---cia--"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:--p-gaspar---cia--"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:--p-gaspar---cia--"/>
+    <file name="webpro.js" crc="3856315280" ref="index:--p-gaspar---cia--"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:--p-gaspar---cia--"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:--p-gaspar---cia--"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:--p-gaspar---cia--"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:--p-gaspar---cia--"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:--p-gaspar---cia--"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:--p-gaspar---cia--"/>
+    <file name="require.js" crc="4177726516" ref="index:--p-gaspar---cia--"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4136085572" ref="index"/>
+    <file name="mbcp.svg" crc="4073025778" ref="index:--p-gaspar---cia--"/>
+    <file name="mbcp_poster_u8528.png" crc="4127415193" ref="index:--p-gaspar---cia--"/>
+    <file name="fula.png" crc="4293130012" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sovena.png" crc="235591824" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oliveira.png" crc="4217573516" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="superbock.png" crc="3763578402" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cristal.png" crc="428702930" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pedras.png" crc="3917043511" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group.png" crc="525831033" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vitalis.png" crc="98597547" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carlsberg.png" crc="3766861466" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="turismo.png" crc="134114362" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sogrape.png" crc="4236069151" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logopsite copy_map copy.svg" crc="3920178893" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_map copy_poster_u8472.png" crc="3777398925" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_map.svg" crc="3904444291" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_map_poster_u8480.png" crc="4232372483" ref="index:--p-gaspar---cia--"/>
+    <file name="branco.jpg" crc="3849733939" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logopsite_completo.svg" crc="323830679" seo="true" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="--p-gaspar---cia--" alt=""/>
+      <caption webpage="--p-gaspar---cia--" alt=""/>
+      <caption webpage="--p-gaspar---cia--" alt=""/>
+    </file>
+    <file name="logopsite_completo_poster_.png" crc="3812790999" ref="index"/>
+    <file name="logopsite_hamb_cinza.svg" crc="237377684" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite_hamb_cinza_poster_u8508.png" crc="153637163" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite_hamb_laranj.svg" crc="4240373648" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite_hamb_laranj_poster_u8516.png" crc="257768680" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite_pgcia.svg" crc="3963219139" seo="true" ref="index:--p-gaspar---cia--">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="--p-gaspar---cia--" alt=""/>
+      <caption webpage="--p-gaspar---cia--" alt=""/>
+      <caption webpage="--p-gaspar---cia--" alt=""/>
+    </file>
+    <file name="logopsite_pgcia_poster_.png" crc="4080508988" ref="index"/>
+    <file name="logopsite copy_youtube copy.svg" crc="4033483352" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_youtube copy_poster_u8488.png" crc="389821462" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_youtube.svg" crc="274612398" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_youtube_poster_u8496.png" crc="4034534147" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_facebook copy.svg" crc="3975517786" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_facebook copy_poster_u8424.png" crc="18923717" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_facebook.svg" crc="4055134590" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_facebook_poster_u8432.png" crc="535113211" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_insta copy.svg" crc="3960785348" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_insta copy_poster_u8440.png" crc="3841134608" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_insta.svg" crc="4029302138" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_insta_poster_u8448.png" crc="8611365" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_linkedin copy.svg" crc="117181169" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_linkedin copy_poster_u8456.png" crc="3996512677" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_linkedin.svg" crc="4166106530" ref="index:--p-gaspar---cia--"/>
+    <file name="logopsite copy_linkedin_poster_u8464.png" crc="3849443913" ref="index:--p-gaspar---cia--"/>
+    <file name="fula-u2646-fr.png" crc="204309506" ref="index:--p-gaspar---cia--"/>
+    <file name="sovena-u2650-fr.png" crc="3946925775" ref="index:--p-gaspar---cia--"/>
+    <file name="oliveira-u2662-fr.png" crc="407043324" ref="index:--p-gaspar---cia--"/>
+    <file name="superbock-u6810-fr.png" crc="185319933" ref="index:--p-gaspar---cia--"/>
+    <file name="cristal-u2728-fr.png" crc="149298445" ref="index:--p-gaspar---cia--"/>
+    <file name="pedras-u2724-fr.png" crc="3920166561" ref="index:--p-gaspar---cia--"/>
+    <file name="group-u2725-fr.png" crc="3915400228" ref="index:--p-gaspar---cia--"/>
+    <file name="vitalis-u2726-fr.png" crc="383690490" ref="index:--p-gaspar---cia--"/>
+    <file name="carlsberg-u2727-fr.png" crc="103324270" ref="index:--p-gaspar---cia--"/>
+    <file name="turismo-u6952-fr.png" crc="3785905157" ref="index:--p-gaspar---cia--"/>
+    <file name="sogrape-u6956-fr.png" crc="233314088" ref="index:--p-gaspar---cia--"/>
+    <file name="fula-u2646-fr2.png" crc="156494085" ref="index:--p-gaspar---cia--"/>
+    <file name="sovena-u2650-fr2.png" crc="4063202028" ref="index:--p-gaspar---cia--"/>
+    <file name="oliveira-u2662-fr2.png" crc="182601301" ref="index:--p-gaspar---cia--"/>
+    <file name="turismo-u6952-fr2.png" crc="531320579" ref="index:--p-gaspar---cia--"/>
+    <file name="sogrape-u6956-fr2.png" crc="91310575" ref="index:--p-gaspar---cia--"/>
+    <file name="blank.gif" crc="4208392903" ref="index:--p-gaspar---cia--"/>
+  </folder>
+  <file name="index.html" crc="49721263" seo="true" mt="1672915826905" redirect="true"/>
+  <file name="--p-gaspar---cia--.html" crc="412879987" seo="true" mt="1672915827522" redirect="true"/>
+</manifest>
